@@ -1,6 +1,10 @@
 # GTA 6 meme on X — make.fun entry
 
-Bounty: **gta6-meme-x-01 — "Post a GTA 6 meme on X"**
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Luccifermorningg/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Luccifermorningg/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Bounty: **[gta6-meme-x-01 — "Post a GTA 6 meme on X"](https://make.fun/bounty/gta6-meme-x-01)**
 Prize: **$500, shared by the top 50 entries.** Results: **8 December 2026.**
 Author: **@Luccifermorning**
 
